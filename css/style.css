@@ -3,15 +3,15 @@
   padding: 10px;
 }
 
-p.intro {
+.intro p {
   width: 30%;
 }
 
-h2.intro {
+.intro h2 {
   font-family: fantasy;
 }
 
-img.intro {
+.intro img {
   width: 300px;
   height: auto;
   display: block;
